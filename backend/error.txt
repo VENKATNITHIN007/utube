@@ -1,0 +1,15 @@
+200 OK: The request was successful.
+
+201 Created: The request was successful, and a resource was created.
+
+400 Bad Request: The server cannot process the request due to client-side errors (e.g., invalid input).
+
+401 Unauthorized: Authentication is required or has failed.
+
+403 Forbidden: The client does not have permission to access the resource.
+
+404 Not Found: The requested resource does not exist.
+
+500 Internal Server Error: A generic server-side error occurred.
+
+503 Service Unavailable: The server is temporarily unavailable (e.g., due to maintenance or
